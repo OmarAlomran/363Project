@@ -1,3 +1,4 @@
+**SWE363 Project**
 Our Repository For SWE 363 Project - Web Development Course
 
 Here are some images for the website pages!
