@@ -29,3 +29,8 @@ Here are some images for the website pages!
 
 9- Sign Up Page
 <img width="1470" alt="Sign Up Page" src="https://github.com/OmarAlomran/363Project/assets/86429573/56e3ac40-3da0-4541-a6be-e6e98267411c">
+
+10- Mobile View
+<img width="923" alt="Screenshot 2024-04-20 at 2 42 04 PM" src="https://github.com/OmarAlomran/363Project/assets/86429573/79874057-d0c7-4eb2-a38a-33b3210b11f1">
+<img width="925" alt="Screenshot 2024-04-20 at 2 43 04 PM" src="https://github.com/OmarAlomran/363Project/assets/86429573/45a84897-8d32-4bfa-a49d-3be64db7f2fc">
+
